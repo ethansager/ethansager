@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethansager
+- 👋 Hi, I’m @ethansager, master student at McCourt School of Public Policy in International Development Policy 
 - 👀 I’m interested in social impact, econometrics, beneficiary dignity, and evaluations
 - 🌱 I’m currently working for Gallup as a Research Consultant collecting quantative data, qualitative inputs, and developing survey instruments. 
 - 💞️ I’m looking to collaborate on novel methods for development evaluations or cool ways to track impact! 
